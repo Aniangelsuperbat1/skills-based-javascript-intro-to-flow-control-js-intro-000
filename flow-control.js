@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-  return console.log("you are a teenager")
+  return console.log("You are a teenager!")
 }
 
 function teenager(age) {
