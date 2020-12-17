@@ -31,13 +31,13 @@ function switchAge(age) {
     case 13:
       return "You are a teenager!"
     case 14:
-      return "You are a teenager!" 
+      return "You are a teenager!"
     case 15:
-      return "You are a teenager!"  
+      return "You are a teenager!"
     case 16:
       return "You are a teenager!"
     case 17:
-      return "You are a teenager!" 
+      return "You are a teenager!"
     case 18:
       return "You are a teenager!"
     case 19:
